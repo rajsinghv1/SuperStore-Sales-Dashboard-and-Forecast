@@ -37,7 +37,7 @@ This project demonstrates an **interactive Power BI dashboard** analyzing SuperS
 ![Dashboard Overview](https://github.com/rajsinghv1/SuperStore-Sales-Dashboard-and-Forecast/blob/main/SuperStore%20Sales%20Dashboard%20Page-0001.jpg)
 
 ###  Figure 2: 15-Day Sales Forecast  
-![Forecast](images/SuperStore_Sales_Dashboard_Page2.png)
+![Forecast](https://github.com/rajsinghv1/SuperStore-Sales-Dashboard-and-Forecast/blob/main/SuperStore%20Sales%20Forecast%20Page-0002.jpg)
 
 > *(Replace image paths with actual image filenames if different)*
 
@@ -55,8 +55,8 @@ This project demonstrates an **interactive Power BI dashboard** analyzing SuperS
 
 Feel free to reach out if you have any questions or feedback:
 
-- 📧 Email: [borhan.chat@gmail.com](mailto:borhan.chat@gmail.com)  
-- 🔗 LinkedIn: [Md Borhan Uddin](https://www.linkedin.com/in/your-profile)  
+- 📧 Email: [borhan.chat@gmail.com](rajsingh05102004@gmail.com)  
+- 🔗 LinkedIn: [Md Borhan Uddin](https://www.linkedin.com/in/raj-singh-5213b12a5/)  
 > *(Replace with your actual LinkedIn URL)*
 
 ---
