@@ -34,7 +34,7 @@ This project demonstrates an **interactive Power BI dashboard** analyzing SuperS
 ##  Visuals
 
 ###  Figure 1: Interactive Dashboard Overview  
-![Dashboard Overview](images/SuperStore_Sales_Dashboard_Page1.png)
+![Dashboard Overview](https://github.com/rajsinghv1/SuperStore-Sales-Dashboard-and-Forecast/blob/main/SuperStore%20Sales%20Dashboard%20Page-0001.jpg)
 
 ###  Figure 2: 15-Day Sales Forecast  
 ![Forecast](images/SuperStore_Sales_Dashboard_Page2.png)
