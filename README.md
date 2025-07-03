@@ -54,8 +54,8 @@ This project demonstrates an **interactive Power BI dashboard** analyzing SuperS
 
 Feel free to reach out if you have any questions or feedback:
 
-- 📧 Email: [rajsingh05102004@gmail.com](rajsingh05102004@gmail.com)  
-- 🔗 LinkedIn: [Raj Singh](https://www.linkedin.com/in/raj-singh-5213b12a5/)  
+-  Email: [rajsingh05102004@gmail.com](rajsingh05102004@gmail.com)  
+-  LinkedIn: [Raj Singh](https://www.linkedin.com/in/raj-singh-5213b12a5/)  
 
 ---
 
